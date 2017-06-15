@@ -7,3 +7,4 @@ print(next(it))
 
 for x in it:
     print(x, end=' ')
+

@@ -6,3 +6,13 @@ for k, v in var1.items():
 
 for i, v in enumerate(var1):
     print(i, v)
+
+names = {"guo": 91, "bizi": 12, "bishion": 99}
+print(names["guo"])
+
+num_set = set([1, 2, 3, 4, 4, 1])
+print(num_set)
+
+num_set = [1, 2, 3, 4, 4, 1]
+num_set.sort()
+print(num_set)
